@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleToDoList</string>
+    <string name="input_message">type new item here!!</string>
+    <string name="btn_text_message">add new item</string>
+</resources>
